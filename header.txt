@@ -1,0 +1,13 @@
+Data from 4ms_10 av_15 s_Absorbance_10-32-04-868.txt Node
+
+Date: Thu Oct 25 10:32:04 CEST 2018
+User: Christoph
+Spectrometer: BALLMOOS
+Trigger mode: 4
+Integration Time (sec): 4.000000E-3
+Scans to average: 10
+Electric dark correction enabled: true
+Nonlinearity correction enabled: false
+Boxcar width: 0
+XAxis mode: Wavelengths
+Number of Pixels in Spectrum: 3648
